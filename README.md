@@ -12,3 +12,4 @@ Tech is good, less is better.
 
 - commit oct.
 - commit til ny branch
+- starta development branch
