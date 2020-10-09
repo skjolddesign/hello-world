@@ -11,3 +11,4 @@ Tech is good, less is better.
 - AutoHotKey programmable keys
 
 - commit oct.
+- commit til ny branch
