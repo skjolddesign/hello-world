@@ -9,3 +9,5 @@ Tech is good, less is better.
 - Lightshot printscreen with annotation
 - ClipX clipboard history
 - AutoHotKey programmable keys
+
+- commit oct.
